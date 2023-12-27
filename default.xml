@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="ssh://git@github.com/zzyyppqq" name="origin"/>
+
+	<project name="android-nfc-reader.git" path="android-nfc-reader" remote="origin" revision="main" upstream="main"/>
+	<project name="MyPdfDemo.git" path="MyPdfDemo" remote="origin" revision="main" upstream="main"/>
+</manifest>
